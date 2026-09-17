@@ -1,6 +1,6 @@
 # Excitability in Gene Regulatory Networks
 
-[Summary Slides](https://github.com/SHI200005/UndergradThesis_Excitability/blob/main/annex/Eng_copyright.pdf).
+[Summary Slides](https://github.com/SHI200005/Examples/blob/main/Excitability/annex/Eng_copyright.pdf).
 
 Copyright © [2023] [L Shi @ Nanjing University]. All rights reserved.
 
